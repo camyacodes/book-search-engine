@@ -12,7 +12,17 @@
     "seed": "cd server && npm run seed",
     "heroku-postbuild": "cd client && npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@work.github.com:izabelacloud/Book-Search-Engine.git"
+  },
   "keywords": [],
+  "author": "Camya Robinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com"
+  },
+  "homepage": "https://github.com/camyacodes",
   "dependencies": {
     "if-env": "^1.0.4"
   },
